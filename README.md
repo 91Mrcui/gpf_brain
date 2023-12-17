@@ -1,0 +1,1 @@
+将三个文件夹放在data目录下，ROI220_nearst-ROIcentroids.txt复制多一个放在脑区功率值文件夹下
